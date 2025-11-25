@@ -1,5 +1,5 @@
 {
-  "name": "turbo-response",
+  "name": "@appboypov/turbo-response",
   "version": "0.1.1",
   "description": "Result type (Success/Fail) for operation outcomes in TypeScript/React",
   "main": "dist/index.js",
