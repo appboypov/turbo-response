@@ -5,7 +5,7 @@ A TypeScript library providing a type-safe Result type (Success/Fail) for handli
 ## Installation
 
 ```bash
-npm install turbo-response
+npm install @appboypov/turbo-response
 ```
 
 ## Features
@@ -20,7 +20,7 @@ npm install turbo-response
 ## Quick Start
 
 ```typescript
-import { success, fail, fold, isSuccess, TurboResponse } from 'turbo-response';
+import { success, fail, fold, isSuccess, TurboResponse } from '@appboypov/turbo-response';
 
 // Creating responses
 const successResult = success({ id: '123', name: 'John' });
